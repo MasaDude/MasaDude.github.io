@@ -1,0 +1,42 @@
+.warpaper{
+	margin-left: 20px;
+	display: inline-block;
+	animation: backwards;
+	font-family: Arial Black;
+	font-style: bold;
+
+
+}
+.hah{
+	margin-right: 400px;
+	box-shadow: 0 4px 8px 0 , 0 6px 20px 0 ;
+	border-radius: 5px;
+    margin-left: 30px;
+	
+}
+
+
+.roo {
+	font-family: Impact;
+	font-size: 40px;
+	padding: 30px;
+
+}
+.bbb{
+	text-align: center;
+	font-family: Arial Rounded MT Bold;
+	font-style: bold;
+	text-shadow: 3px 3px #00e83a;
+	font-weight: 1000;
+}
+
+.naa{
+	color: blue;
+}
+h2{
+	margin-left: 10px;
+	font-family: Arial Black;
+}
+.ll{
+	color: #000000;
+	}
